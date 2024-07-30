@@ -1,0 +1,39 @@
+.content{
+    box-shadow: 5px 5px 5px rgb(82, 81, 81);
+    margin: 30px auto;
+    width: 500px;
+    font-size: 20px;
+    padding: 10px;
+    background: rgb(228, 232, 250);
+    border-radius: 10px;
+    border-top:1px solid darkblue;
+    border-bottom:1px solid darkblue;
+}
+.content label{
+    font-weight: bold;
+    margin: 10px;
+}
+.head h2{
+    color: darkblue;
+    text-shadow: 1px 1px 1px black;
+    text-align: center;
+    border-top:1px solid darkblue;
+    border-bottom:1px solid darkblue;
+    padding: 10px;
+    width: 500px;
+    margin: 40px auto 10px;
+}
+.content input[type="text"]{
+    font-size: 16px;
+    padding: 2px;
+    width: 230px;
+}
+.content button{
+    font-size: 16px;
+    padding: 5px 10px;
+    background-color: darkblue;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin: 10px;
+}
